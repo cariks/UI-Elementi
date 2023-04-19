@@ -15,5 +15,5 @@ Projekts, kas demonstrē UI elementu lietojumu. Tēma: Mr. Bean
 - [x] Audio source objekta lietojums
 - [x] Scroll view elementa lietojums
 - [x] Drag and drop funkcionālitātes ieviešana
-- [ ] Pārslēgšanās starp ainām
+- [x] Pārslēgšanās starp ainām
 - [ ] Projekta sagatavošana .exe un WebGL formātos

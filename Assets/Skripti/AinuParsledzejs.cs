@@ -11,7 +11,7 @@ public class AinuParsledzejs : MonoBehaviour {
 	}
 
 	public void UzBinaAinu(){
-		SceneManager.LoadScene (1, LoadSceneMode.Single);
+		SceneManager.LoadScene ("Project", LoadSceneMode.Single);
 	}
 
 	public void Apturet(){
