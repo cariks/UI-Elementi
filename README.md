@@ -16,4 +16,4 @@ Projekts, kas demonstrē UI elementu lietojumu. Tēma: Mr. Bean
 - [x] Scroll view elementa lietojums
 - [x] Drag and drop funkcionālitātes ieviešana
 - [x] Pārslēgšanās starp ainām
-- [ ] Projekta sagatavošana .exe un WebGL formātos
+- [x] Projekta sagatavošana .exe un WebGL formātos
